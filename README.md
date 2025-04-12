@@ -4,8 +4,7 @@
 **Seamlessly connect doctors with healthcare organizations, manage patient flow, and streamline medical collaborations through secure digital workflows.**
 
 
-## If you have any questions, feel free to contact me: [Contact me](mailto:badhan.tech.museum.dev@gmail.com)
-**Or My E-Mail ID: badhan.tech.museum.dev@gmail.com**
+## If you have any questions, feel free to contact me: badhan.tech.museum.dev@gmail.com
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.13.9-blue.svg)](https://flutter.dev)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
