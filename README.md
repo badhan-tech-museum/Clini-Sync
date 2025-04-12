@@ -1,6 +1,6 @@
 # Clini Sync - Bridging Healthcare Professionals and Organizations 🏥🤝
 
-![Clini Sync ![logo](https://github.com/user-attachments/assets/e7f4ced3-3b86-4aeb-8407-d7de2fb3e477)
+![Clini Sync ![logo](https://github.com/user-attachments/assets/e7f4ced3-3b86-4aeb-8407-d7de2fb3e477 = 100x)
 
 **Seamlessly connect doctors with healthcare organizations, manage patient flow, and streamline medical collaborations through secure digital workflows.**
 
