@@ -10,6 +10,15 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Firebase](https://img.shields.io/badge/Firebase-Emulator%20Ready-orange.svg)](https://firebase.google.com)
 
+## Tutorial video How to use Clinisync App
+
+## For Hospital/Nursing Home/Organization Users
+https://youtu.be/Tciw9P22YoA?si=AWEgMDqEhX-WmzI8
+
+## For Doctor user
+https://youtu.be/6gEKGlC1vkw?si=tjt5n6jvI6MOfs1t
+
+
 ## Key Features 🔍
 
 ### 🔐 Secure Authentication
