@@ -12,10 +12,10 @@
 
 ## Tutorial video How to use Clinisync App
 
-## For Hospital/Nursing Home/Organization Users
+### For Hospital/Nursing Home/Organization Users
 https://youtu.be/Tciw9P22YoA?si=AWEgMDqEhX-WmzI8
 
-## For Doctor user
+### For Doctor user
 https://youtu.be/6gEKGlC1vkw?si=tjt5n6jvI6MOfs1t
 
 
